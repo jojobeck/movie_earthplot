@@ -1,0 +1,12 @@
+#README
+
+1.to make a nice plot of the Earth follow instructions of function_perspective_nicecol.R 
+with your own array that contains data from -180 to 180 and-90 to 90 degrees.Here polygones are created that 
+are used in just_plot.R
+
+2.to make an animation use just_plot.R first to generate multiple plots.# run with source('just_plot.R')
+
+3.Thes plots are used in movie.R to create a little animation.#run with source('movie.R')
+
+
+
